@@ -26,7 +26,7 @@
                     <li><a @click="directto('contact')">Contact</a></li>
                     <li><a @click="directto('Account')">Account</a></li>
                     <!-- li class="go-premium-cta"><a href="https://brajoecarwash.co.za/#/login">Log in</a></li>
-                    <li class="go-premium-cta"><a href="https://brajoecarwash.co.za/#/signup">Sign up</a></li> -->
+                    <li class="d"><a href="https://brajoecarwash.co.za/#/signup">Sign up</a></li> -->
                 </ul>
             </nav>
         </div>
