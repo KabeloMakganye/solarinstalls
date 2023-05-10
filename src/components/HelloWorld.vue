@@ -9,7 +9,7 @@
       <li>Saden R60</li>
       <li>Single Cap van</li>
       <li>double Cap van</li>
-      <li>Mini bus *Taxi</li>
+      <li>Mini budds *Taxi</li>
     </ol>
   </div> -->
     <div class="navbar">
