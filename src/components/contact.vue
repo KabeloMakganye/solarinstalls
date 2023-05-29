@@ -12,7 +12,7 @@
       <li>Mini bus *Taxi</li>
     </ol>
   </div> -->
-    <div class="navbar">
+    <div class="navbar" style="position: -webkit-sticky;  position: sticky; top: 0;  z-index: 5;">
         <div class="container">
             <a class="logo" href="#">SOLAR INSTALL</a>
             <img @click="addmenu"  class="mobile-menu" src="../assets/menu.svg" alt="Open Navigation">
